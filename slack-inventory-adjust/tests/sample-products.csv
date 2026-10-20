@@ -1,0 +1,25 @@
+Name,Internal Reference,Material Type
+Bolt M6 x 20mm,HW-1001,Hardware
+Bolt M6 x 25mm,HW-1002,Hardware
+Bolt M8 x 20mm,HW-1003,Hardware
+Nut M6 Nylock,HW-1004,Hardware
+Washer M6 Flat,HW-1005,Hardware
+15mm Block Spacer,HW-1015,Print
+40mm Block Spacer,HW-1040,Print
+L Stagger Spacer,HW-1050,Print
+Masking Tape 2in Blue,CS-2001,Consumable
+Kapton Tape 10mm,CS-2002,Consumable
+Zip Tie 200mm,CS-2201,Consumable
+Heat Shrink 6mm Black,CS-2101,Heat Shrink
+Heat Shrink 12mm Black,CS-2102,Heat Shrink
+Controller Board Rev A,EL-2001,PCB
+Controller Board Rev B,EL-2002,PCB
+Sensor Board Mini,EL-2010,PCB
+Smart Relay Module 12V,EL-3001,Module
+Smart Relay Module 24V,EL-3002,Module
+Relay Harness 24V,EL-3010,Wiring Harness
+Charger 12V 2A,EL-4001,Charger
+Charger 24V 5A Fast,EL-4002,Charger
+Toggle Switch SPST,EL-5001,Switch
+Enclosure Small ABS,EN-7001,Enclosure
+Enclosure Large ABS,EN-7002,Enclosure
