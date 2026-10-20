@@ -195,3 +195,7 @@ node tests/run_tests.js
   *Inventory Adjust → Refresh parts list* after importing products.
 - **Don't rename tabs or headers.** The `Log` tab uses column positions, so
   only add columns to the right of `Exported`.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
